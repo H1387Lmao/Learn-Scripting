@@ -31,7 +31,4 @@ local variable_name
 
 It is standardized to end a variable with a newline
 
-When a variable creation does not have a equal sign " = " then its given an item called ```lua
-
-nil
-```
+When a variable creation does not have a equal sign " = " then its given an item called `nil`
